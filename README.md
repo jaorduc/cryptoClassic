@@ -1,2 +1,66 @@
-# cryptoClassic
-Classical algorihtm for cryptography
+# Cipher algorithms 
+#### By: Javier Orduz
+[license-badge]: https://img.shields.io/badge/License-CC-orange
+[license]: https://creativecommons.org/licenses/by-nc-sa/3.0/deed.en
+[![CC License][license-badge]][license]
+[![DS](https://img.shields.io/badge/downloads-DS-green)](https://github.com/Earlham-College/DS_Fall_2022)
+[![Github](https://img.shields.io/badge/jaorduz-repos-blue)](https://github.com/jaorduz/)[![Github](https://img.shields.io/badge/jaorduc-repos-blue)](https://github.com/jaorduc/)
+
+![Follow @jaorduc](https://img.shields.io/twitter/follow/jaorduc?label=follow&logo=twitter&logoColor=lkj&style=plastic)
+
+Classical algorihtm and ciphers for cryptography.
+
+
+<h1>Table of contents</h1>
+
+<div class="alert  alert-block alert-info" style="margin-top: 20px">
+    <ol>
+        <li><a href="#descr">Description</a></li>
+        <li><a href="#exerc">Exercises</a></li>
+        <li><a href="#refer">References</a></li>
+
+<!---         <ol>
+             <li><a href="#reData">ZZZZ</a></li>
+             <li><a href="#exData">YYY</a></li>
+         </ol>
+        <li><a href="#daExploration"> XXXX</a></li>   
+    </ol>
+    --->
+</div>
+<br>
+<hr>
+
+# Description
+
+This repository contains information, and material for the crypotraphy course. 
+This material is particularly created for the Cybersecurity course ata EC.
+
+
+
+
+I try to put all the different references, however, if I miss any bibliography or reference, please, let me know. I will put here in the section reference.
+
+
+# Exercise
+
+1. Add documentation for the previous code, each line.
+1. Create your own code with python or in another programming language
+1. Create your decryption code.
+1. Encrypt a message and post on Moodle.
+
+# References
+
+[1] Github repo: https://github.com/aseerintiser/Shift-Cipher
+
+[2] Github repo: https://github.com/schlopp96/MyCaesarCipher/tree/master/MyCaesarCipher/tests
+[3] Github repo: https://github.com/araujo88/cryptography
+
+[4] Github repo: https://github.com/GeoRouv/caesar-cipher
+
+[5] Github repo: https://github.com/vishal1565/Cryptography
+
+[6] Github repo: https://github.com/drilonaliu/Cryptography
+
+[7] Gituhb repo: https://github.com/r1b/cryptography
+
+[8] Github repo: https://github.com/bhvya1505/Cryptography
