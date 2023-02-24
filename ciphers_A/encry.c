@@ -1,5 +1,6 @@
 #include<stdio.h>
 #include<string.h>
+#include <ctype.h> 
 
 int main()
 {
@@ -16,9 +17,9 @@ int main()
     {
         if(str[i]>='A' && str[i]<='Z')
             {
-                p = str[i] - 'A';
+                p = tolower(str[i]) - tolower('A');
                 p = ( p + k ) % 26;
-                printf("%c", p + 'A');
+                printf("%c", p + tolower('A'));
             }
         else if(str[i]>='a' && str[i]<='z')
         {

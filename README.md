@@ -43,8 +43,8 @@ I try to put all the different references, however, if I miss any bibliography o
 
 ## Folders
 This repository contains other folders such as
-1) [ciphers_A](https://github.com/jaorduc/cryptoClassic/ciphers_A)
-1) [ciphers_B](https://github.com/jaorduc/cryptoClassic/ciphers_B)
+1) [ciphers_A](https://github.com/jaorduc/cryptoClassic/tree/main/ciphers_A)
+1) [ciphers_B](https://github.com/jaorduc/cryptoClassic/tree/main/ciphers_B)
 
 
 Following you find some exercises, activities, and references shared during the sessions.
