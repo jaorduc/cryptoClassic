@@ -88,3 +88,5 @@ Following you find some exercises, activities, and references shared during the 
 [7] Gituhb repo: https://github.com/r1b/cryptography
 
 [8] Github repo: https://github.com/bhvya1505/Cryptography
+
+[9] Hash http://pymotw.com/2/hashlib/
